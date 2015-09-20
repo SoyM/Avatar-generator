@@ -7,4 +7,4 @@ identicon.py is Licesensed under FreeBSD License.
 ---  
 ##usage:See notes
 ---
-#I an a rookie.
+#I am a rookie.
