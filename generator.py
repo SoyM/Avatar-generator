@@ -1,7 +1,13 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+#!/usr/bin/env python2
+# -*- coding:utf-8 -*-
 import identicon
-img = identicon.render_identicon(20150609, 480)
-#20150609 is the number to generate the Avatar.So let's change it. 
-#Generated image size is 3 * 480.
-img.save('MyNiece.png')
+def gen():
+    img = identicon.render_identicon(num, picsize)
+    img.save('identicon.png')
+    print 'The identicon was generated.'
+
+num = raw_input('Please enter your number.\n')
+num = int(num)
+picsize = raw_input('Please enter the size you want.\n')
+picsize = int(picsize)
+gen()
