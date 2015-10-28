@@ -1,12 +1,11 @@
 #Avatar genertor
-A Avatar genertor with identicon.  
-You can get the usage in genertor.py Notes.  
+A Identicon's avatar genertor.  
+#Why?
+I had a lot of pictures to make avatar,but it was complex.  
+When i saw the GitHub's default avatar,i found my answer.  
+The Identicon's avatar is simply and good-looking,at least I think so.
+#run
+Run with Python 2.7.
 
-#identicon.py
-:Author:Shin Adachi shn@glucose.jp  
-identicon.py is Licesensed under FreeBSD License.
-**https://github.com/shnjp/identicon**  
 
-#I am a rookie.
-Please forgive my mistake and pointed out to me.
-Thanks.
+
